@@ -9,7 +9,7 @@ Always looking for new challenges and ideas to develop something 💻:bulb:
 - 📚 I'm graduate in Systems analysis and development
 - 🌱 I’m currently learning more of Java, Python and Django
 - ⚡ Languages and Frameworks: Java, Java in Android too, Python, JavaScript, Django and i know a little bit about C
-- 💬 Ask me about development, music, movies, series, anime, sports and programming languages :smile:
+- 💬 Ask me about development, music, movies, series, anime, sports, games and chess :smile:
 
 ---
 
