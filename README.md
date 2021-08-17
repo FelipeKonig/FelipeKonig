@@ -5,10 +5,10 @@ Always looking for new challenges and ideas to develop something 💻:bulb:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I am currently working on my personal project (link [here](https://clickreservas.pythonanywhere.com/)), but only as a hobby. I am looking for a job in a company or project as a freelancer
+- 🔭 I'm currently working at Compasso UOL as a Back-End Java Jr Developer
 - 📚 I'm graduate in Systems analysis and development
-- 🌱 I’m currently learning more of Java, Python and Django
-- ⚡ Languages and Frameworks: Java, Java in Android too, Python, JavaScript, Django and i know a little bit about C
+- 🌱 I’m currently learning more of Java, Spring, Ionic, TypeScript and NoSQL with MongoDB 
+- ⚡ Languages and Frameworks: Java, Spring, Python, JavaScript, Django and i know a little bit about C
 - 💬 Ask me about development, music, movies, series, anime, sports, games and chess :smile:
 
 ---
