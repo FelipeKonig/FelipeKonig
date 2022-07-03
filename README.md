@@ -5,10 +5,10 @@ Always looking for new challenges and ideas to develop something 💻:bulb:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I'm currently working at Compass.uol as a Java Jr Developer
+- 🔭 I'm currently working at Compass.Uol as a Java developer using Oracle ATG Web Commerce framework  
 - 📚 I'm graduate in Systems analysis and development
-- 🌱 I’m currently learning more of Java, Spring, Ionic, TypeScript and NoSQL with MongoDB 
-- ⚡ Languages and Frameworks: Java, Spring, Oracle ATG Web Commerce, Python, JavaScript, Django and i know a little bit about C
+- 🌱 I’m currently learning more of ReactJS, Node.js, Elixir
+- ⚡ Languages and Frameworks: Java, Spring, Oracle ATG Web Commerce, Python, JavaScript, Django, SQL...
 - 💬 Ask me about development, music, movies, series, anime, sports, games and chess :smile:
 
 ---
