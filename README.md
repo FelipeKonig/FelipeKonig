@@ -5,11 +5,11 @@ Always looking for new challenges and ideas to develop something 💻:bulb:
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I'm currently working at Compass.Uol as a Java developer using Oracle ATG Web Commerce framework  
+- 🔭 I'm currently working at Compass.Uol as a React developer using VTEX
 - 📚 I'm graduate in Systems analysis and development
-- 🌱 I’m currently learning more of ReactJS, Node.js, Elixir
-- ⚡ Languages and Frameworks: Java, Spring, Oracle ATG Web Commerce, Python, JavaScript, Django, SQL...
-- 💬 Ask me about development, music, movies, series, anime, sports, games and chess :smile:
+- 🌱 I’m currently learning more of Next.js, Node.js, Elixir
+- ⚡ Languages and Frameworks: Java, Spring, Oracle ATG Web Commerce, VTEX, React, Python, Django, SQL...
+- 💬 Ask me about development, music, movies, series, anime, sports, games, chess.. :smile:
 
 ---
 
